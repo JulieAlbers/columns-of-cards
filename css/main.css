@@ -31,7 +31,7 @@ h2 {
   background-color: #e2e2e2;
   padding: .75rem;
   border-left: 1px solid #333;
-  height: 26rem;
+  min-height: 26rem;
 }
 
 .second {
